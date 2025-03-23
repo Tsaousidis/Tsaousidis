@@ -1,13 +1,10 @@
 ## Hi there 👋, I'm Konstantinos Tsaousidis.
 
 🔭 I’m currently working on:
-- Building projects with **Python** and **Web Development**.
+- Building projects with **Python**.
 
 🌱 I’m currently learning:
-- Python programming, Data Science, and **Machine Learning**.
-
-👯 I’m looking to collaborate on:
-- Open-source projects related to **Web Development**.
+- **Python programming**, **Web Development**, **Data Science**, and **Machine Learning**.
 
 📫 How to reach me:
 - Email: [kostastsaous23@gmail.com](mailto:kostastsaous23@gmail.com)  
