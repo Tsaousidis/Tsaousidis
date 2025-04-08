@@ -26,7 +26,6 @@ I enjoy building small but complete apps — from interactive games to productiv
 
 - Web development with **Flask**
 - Data visualization with **Matplotlib** and **Seaborn**
-- Fundamentals of **Machine Learning**
 
 ---
 
