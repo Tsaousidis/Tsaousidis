@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 I'm a self-taught Python developer with a strong focus on **automation**, **GUI tools**, and **API integrations**.  
-My projects combine functionality and clean design, using libraries like `tkinter`, `pandas`, `requests`, `smtplib`, and `folium`.
+My projects combine functionality and clean design, using libraries like `tkinter`, `pandas`, `requests`, `smtplib`, `bs4`, and `folium`.
 
 I enjoy building small but complete apps — from interactive games to productivity tools — always aiming for code that's clean, documented, and easy to use.
 
