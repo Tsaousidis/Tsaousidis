@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Konstantinos Tsaousidis
 
-🎯 Python Developer | Automation Enthusiast | GUI & API Project Builder
+🎯 Python Developer | Full Stack Developer | Automation Enthusiast | GUI & API Project Builder
 
 ---
 
