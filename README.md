@@ -53,7 +53,7 @@ I work mainly with **TypeScript, Node.js, Python, Flask, React, Next.js, Postgre
 
 ## 🌍 Portfolio
 
-🔗 tsaousidis.online
+🔗 [https://www.tsaousidis.online]([url](https://www.tsaousidis.online))
 
 ---
 
