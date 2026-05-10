@@ -1,18 +1,19 @@
 # 👋 Hi, I'm Konstantinos Tsaousidis
 
-🚀 Full Stack Developer building AI-powered applications, SaaS products, and automations.
+🚀 Full Stack Developer & Product Operations Engineer building AI-powered applications, SaaS products, and automation systems.
 
-I work mainly with **TypeScript, Node.js, Python, Flask, React, Next.js, PostgreSQL, Docker, and AI APIs**, building scalable web platforms and intelligent automation systems.
+Experienced in designing and developing scalable full stack platforms using **TypeScript, Node.js, Python, Flask, React, Next.js, PostgreSQL, Docker, and AI APIs**.
+
+Currently focused on AI integrations, workflow automation, monitoring systems, and modern web applications.
 
 ---
 
-## 🔨 What I'm Building
+## 🔨 Featured Projects
 
-* 🤖 AI-powered tools & automation systems
-* 📊 `ai-ops-monitor`
-* 🥗 `nutrella.app`
-* 🎵 Spotify + AI integrations
-* 🌐 Full stack web applications & custom platforms
+* 📊 [AI-Powered Operations Monitoring System](https://github.com/Tsaousidis/ai-ops-monitor)
+* 🥗 [Smart Nutrition Tracker](https://github.com/Tsaousidis/smart-nutrition-tracker)
+* 🎵 [AI Music Assistant](https://github.com/Tsaousidis/music-ai-assistant)
+* 🌐 [Custom full stack Portfolio Website](https://github.com/Tsaousidis/portfolio-site)
 
 ---
 
@@ -28,32 +29,34 @@ I work mainly with **TypeScript, Node.js, Python, Flask, React, Next.js, Postgre
 ### Backend
 
 * Node.js
-* Express
 * Python
 * Flask
 * PostgreSQL
 * REST APIs
 * Authentication Systems
 
-### Dev & Cloud
+### DevOps & Cloud
 
 * Docker
 * Git & GitHub
-* Vercel
+* AWS
+* Azure
 * Linux
+* CI/CD workflows
 
 ### AI & Automation
 
 * OpenAI APIs
+* AI integrations
 * Workflow automations
-* API integrations
 * Data processing systems
+* Monitoring & operational tooling
 
 ---
 
 ## 🌍 Portfolio
 
-🔗 [https://www.tsaousidis.online](https://www.tsaousidis.online)
+🔗 [tsaousidis.online](https://www.tsaousidis.online)
 
 ---
 
@@ -64,4 +67,4 @@ I work mainly with **TypeScript, Node.js, Python, Flask, React, Next.js, Postgre
 
 ---
 
-> Building products, experimenting with AI, and constantly learning.
+> Building scalable products, experimenting with AI, and continuously learning.
