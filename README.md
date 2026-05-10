@@ -1,40 +1,67 @@
 # 👋 Hi, I'm Konstantinos Tsaousidis
 
-🎯 Python Developer | Full Stack Developer | Automation Enthusiast | GUI & API Project Builder
+🚀 Full Stack Developer building AI-powered applications, SaaS products, and automations.
+
+I work mainly with **TypeScript, Node.js, Python, Flask, React, Next.js, PostgreSQL, Docker, and AI APIs**, building scalable web platforms and intelligent automation systems.
 
 ---
 
-## 🚀 About Me
+## 🔨 What I'm Building
 
-I'm a self-taught Python developer with a strong focus on **automation**, **GUI tools**, and **API integrations**.  
-My projects combine functionality and clean design, using libraries like `tkinter`, `pandas`, `requests`, `smtplib`, `bs4`, and `folium`.
-
-I enjoy building small but complete apps — from interactive games to productivity tools — always aiming for code that's clean, documented, and easy to use.
-
----
-
-## 🧰 Tech I'm comfortable with
-
-- **Languages**: Python (main), basic HTML/CSS/JS
-- **Libraries**: `tkinter`, `requests`, `pandas`, `smtplib`, `folium`, `datetime`, `random`, `turtle`
-- **Tools**: Git, GitHub, VSCode
-- **Concepts**: OOP, APIs, GUI, CLI, file handling, automation, data parsing
+* 🤖 AI-powered tools & automation systems
+* 📊 `ai-ops-monitor`
+* 🥗 `nutrella.app`
+* 🎵 Spotify + AI integrations
+* 🌐 Full stack web applications & custom platforms
 
 ---
 
-## 🧠 Currently Exploring
+## 🧰 Tech Stack
 
-- Web development with **Flask**
-- Data visualization with **Matplotlib** and **Seaborn**
+### Frontend
+
+* React
+* Next.js
+* TypeScript
+* TailwindCSS
+
+### Backend
+
+* Node.js
+* Express
+* Python
+* Flask
+* PostgreSQL
+* REST APIs
+* Authentication Systems
+
+### Dev & Cloud
+
+* Docker
+* Git & GitHub
+* Vercel
+* Linux
+
+### AI & Automation
+
+* OpenAI APIs
+* Workflow automations
+* API integrations
+* Data processing systems
+
+---
+
+## 🌍 Portfolio
+
+🔗 tsaousidis.online
 
 ---
 
 ## 📬 Reach Out
 
-- 📧 Email: [kostastsaous23@gmail.com](mailto:kostastsaous23@gmail.com)  
-- 💼 LinkedIn: [Konstantinos Tsaousidis](https://www.linkedin.com/in/konstantinos-tsaousidis-1b7360225/)
+* 💼 LinkedIn: Konstantinos Tsaousidis
+* 📧 [kostastsaous23@gmail.com](mailto:kostastsaous23@gmail.com)
 
 ---
 
-> 👨‍💻 Always building. Always learning. Feel free to check out my pinned projects and drop me a message!
-
+> Building products, experimenting with AI, and constantly learning.
