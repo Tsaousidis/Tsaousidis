@@ -53,13 +53,13 @@ I work mainly with **TypeScript, Node.js, Python, Flask, React, Next.js, Postgre
 
 ## 🌍 Portfolio
 
-🔗 [https://www.tsaousidis.online]([url](https://www.tsaousidis.online))
+🔗 [https://www.tsaousidis.online](https://www.tsaousidis.online)
 
 ---
 
 ## 📬 Reach Out
 
-* 💼 LinkedIn: Konstantinos Tsaousidis
+* 💼 LinkedIn: [Konstantinos Tsaousidis](https://www.linkedin.com/in/konstantinos-tsaousidis-1b7360225/)
 * 📧 [kostastsaous23@gmail.com](mailto:kostastsaous23@gmail.com)
 
 ---
